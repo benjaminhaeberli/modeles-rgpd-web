@@ -14,7 +14,7 @@
 
 ### Pourquoi utiliser ces modèles ?
 
-J'ai conçu ces modèles afin d'aider mes client·e·s à rendre leurs sites web conformes au [RGPD (Règlement général sur la protection des données)](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es). Bien sûr, cela ne suffit pas à remplir tous les critères du règlement. Je vous invite à adapter les modèles à vos besoins et vous informer d'avantage sur le sujet, notamment via les ressources ci-dessous.
+J'ai conçu ces modèles afin d'aider mes client·e·s à rendre leurs sites web conformes au [RGPD (Règlement général sur la protection des données)](https://fr.wikipedia.org/wiki/R%C3%A8glement_g%C3%A9n%C3%A9ral_sur_la_protection_des_donn%C3%A9es). Bien sûr, cela ne suffit pas à remplir tous les critères du règlement. Je vous invite à adapter les modèles à vos besoins et vous informer davantage sur le sujet, notamment via les ressources ci-dessous.
 
 **Ressources** :
 
