@@ -4,9 +4,9 @@
 
 # Mentions légales
 
-Le site web **[adresse du site]** est la propriété exclusive de **[entreprise du client]**. Pour toute demande technique, veuillez vous référer à la société XXX à l'adresse [i](mailto:info@925.ch)nfo@XXX.com
+Le site web **[adresse du site]** est la propriété exclusive de **[entreprise du client]**. Pour toute demande technique, veuillez vous référer à l'administrateur : [hello@benjaminhaeberli.ch](mailto:hello@benjaminhaeberli.ch)
 
-- **[Nom prénom]**
+- **[enterprise du client]**
 - **[Rue & Numéro de rue]**
 - **[ZIP] [Ville]**
 - **[E-mail]**
@@ -20,22 +20,24 @@ Ce site web est hébergé par la société **[Infomaniak](https://www.infomaniak
 - **Infomaniak**
 - **Rue Eugène-Marziano 25**
 - **122704 Les Acacias**
-- **IDE : CHE-103.167.648**
+- **IDE : [CHE-103.167.648](https://www.uid.admin.ch/Detail.aspx?uid_id=CHE-103.167.648)**
 
 ## Éditeur
 
-Ce site web a été édité par la société XXX et publié le **[date de mise en production]**
+Ce site web a été édité par **[Benjamin Haeberli](https://benjaminhaeberli.ch/)** et publié le **[date de mise en production]**.
 
-- **XXX**
-- **Route de XXX 10**
-- **0000 Genève**
-- **IDE ou Siret : CHE-XXX.XXX.XXX**
+- **Benjamin Haeberli**
+- **Rue du Molage 56**
+- **1860 Aigle**
+- **hello@benjaminhaeberli.ch**
+- **+41 79 668 44 31**
+- **IDE : [CHE-150.194.639](https://www.uid.admin.ch/Detail.aspx?uid_id=CHE-150.194.639)**
 
 ## Propriété intellectuelle
 
 De manière générale, les données, les programmes, les échantillons musicaux, les textes, les informations, les logos, les identités visuelles, les images (animées ou non) et leurs mises en forme, les vidéos, apparaissant sur ce site sont la propriété de **[entreprise du client]** et sont protégées à ce titre par les dispositions du **[droit d'auteur](https://www.kmu.admin.ch/kmu/fr/home/savoir-pratique/gestion-pme/propriete-intellectuelle/marques-brevets-designs-droit-auteur%20/droit-auteur.html)**.
 
-Tout internaute s’engage à ne les utiliser uniquement dans le cadre strict cadre offert par ce site, en respectant la licence **[nom et vers la licence utilisée par le site]**
+Tout internaute s’engage à ne les utiliser uniquement dans le cadre strict cadre offert par ce site, en respectant la licence **[nom et vers la licence utilisée par le site](https://)**.
 
 ## Commentaires
 
@@ -48,3 +50,4 @@ Tout internaute s’engage à ne les utiliser uniquement dans le cadre strict ca
 Les éléments présentés sur ce site sont susceptibles de modification sans préavis et sont mis à la disposition des internautes, sans aucune garantie d’aucune sorte, expresse ou tacite.
 
 La présence de liens hypertextes présents sur ce site ne crée pas une solidarité de responsabilité entre **[entreprise du client]** et les propriétaires des autres sites, quant au contenu des sites sur lesquels est redirigé l’internaute. Seule la responsabilité des dits sites peut être engagée.
+  
