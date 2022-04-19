@@ -20,7 +20,7 @@ J'ai conçu ces modèles afin d'aider mes client·e·s à rendre leurs sites web
 
 - 📖 [Comprendre le RGPD](https://www.cnil.fr/fr/comprendre-le-rgpd) – CNIL
 - 📖 [RGPD : Passer à l'action, par où commencer ?](https://www.cnil.fr/fr/rgpd-par-ou-commencer) – CNIL
-- 📖 [Guide RGPD du développeur](https://wpmarmite.com/rgpd-wordpress/) – Laboratoire d'innovation numérique de la CNIL
+- 📖 [Guide RGPD du développeur](https://github.com/LINCnil/Guide-RGPD-du-developpeur) – Laboratoire d'innovation numérique de la CNIL
 - 📖 [RGPD et WordPress : le guide concret pour se mettre en conformité ](https://wpmarmite.com/rgpd-wordpress/) – WP Marmite
 
 ---
